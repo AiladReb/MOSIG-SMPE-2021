@@ -9,6 +9,6 @@
   3. Data version control and archiving. Tool: *Github* or *Gitlab* but dont archive. Better ones: 
       - *arxiv.org* and *hal* for <ins>article archives</ins>
       - *figshare* and *zenodo* for <ins>data share</ins>
-      - *software heritage* for <ins> software archive </ins>. A platform that ```diff - Collect  
+      - *software heritage* for <ins> software archive </ins>. A platform that `Collect`, `Preserve` and `Share`. It ensure: Availablility, Traceability and Uniformity 
       - *go-fair* platform. which is the most and usefull tool to store <ins> **ALL** </ins> data. It guarantees 4 principles: findable - Accessible - Interoperable - Reusable 
   
