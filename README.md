@@ -11,4 +11,4 @@ Repository containing notes, my homework and computational documents of "Scienti
 5. [MOOC peer-evaluated exercise](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/Mooc_Peer_evaluation) (Paradoxe de Simpson)
 6. [Multiple linear regression hand-on](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/Bats) (Is batman somewhere?)
 7. Design of experiments: (TODO)
-8. [Ethics](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/Ethics)(Will AI destroy education)
+8. [Ethics](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/Ethics) (Will AI destroy education)
