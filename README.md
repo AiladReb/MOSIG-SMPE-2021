@@ -10,5 +10,5 @@ Repository containing notes, my homework and computational documents of "Scienti
 4. [Forked repository for parallel quicksort](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/ParallelQuickSort)
 5. [MOOC peer-evaluated exercise](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/Mooc_Peer_evaluation) (Paradoxe de Simpson)
 6. [Multiple linear regression hand-on](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/Bats) (Is batman somewhere?)
-7. Design of experiments: (TODO)
+7. [Design of experiments](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/DoE)
 8. [Ethics](https://github.com/DaliaHareb/MOSIG-SMPE-2021/tree/main/Homeworks/Ethics) (Will AI destroy education)
